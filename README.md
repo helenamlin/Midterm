@@ -1,4 +1,3 @@
-# Midterm
 ---
 title: 'Midterm: CAR Package Overview'
 author: "Allen Baiju, Helena Lindsay, and Max St John"
